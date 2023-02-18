@@ -1,0 +1,172 @@
+[
+  {
+    "id": 1,
+    "productName": "Pineapple",
+    "weight": 1200.0,
+    "price": 123.0,
+    "quantity": 3,
+    "category": {
+      "Id": 1,
+      "nameCategory": "fruits",
+      "ratingCategory": 5.0
+    },
+    "company": {
+      "Id": 1,
+      "companyName": "Thailand",
+      "ratingCompany": 4.2
+    }
+  },
+  {
+    "id": 2,
+    "productName": "Carrot",
+    "weight": 96.0,
+    "price": 4.5,
+    "quantity": 5,
+    "category": {
+      "Id": 2,
+      "nameCategory": "vegetables",
+      "ratingCategory": 4.0
+    },
+    "company": {
+      "Id": 2,
+      "companyName": "Ukraine",
+      "ratingCompany": 5.0
+    }
+  },
+  {
+    "id": 3,
+    "productName": "Melon",
+    "weight": 1100.8,
+    "price": 101.0,
+    "quantity": 3,
+    "category": {
+      "Id": 1,
+      "nameCategory": "fruits",
+      "ratingCategory": 5.0
+    },
+    "company": {
+      "Id": 3,
+      "companyName": "Turkey",
+      "ratingCompany": 3.7
+    }
+  },
+  {
+    "id": 4,
+    "productName": "Apple",
+    "weight": 110.2,
+    "price": 15.0,
+    "quantity": 3,
+    "category": {
+      "Id": 1,
+      "nameCategory": "fruits",
+      "ratingCategory": 5.0
+    },
+    "company": {
+      "Id": 2,
+      "companyName": "Ukraine",
+      "ratingCompany": 5.0
+    }
+  },
+  {
+    "id": 5,
+    "productName": "Potato",
+    "weight": 70.0,
+    "price": 4.6,
+    "quantity": 8,
+    "category": {
+      "Id": 2,
+      "nameCategory": "vegetables",
+      "ratingCategory": 4.0
+    },
+    "company": {
+      "Id": 2,
+      "companyName": "Ukraine",
+      "ratingCompany": 5.0
+    }
+  },
+  {
+    "id": 6,
+    "productName": "Cabbage",
+    "weight": 900.0,
+    "price": 11.7,
+    "quantity": 3,
+    "category": {
+      "Id": 2,
+      "nameCategory": "vegetables",
+      "ratingCategory": 4.0
+    },
+    "company": {
+      "Id": 2,
+      "companyName": "Ukraine",
+      "ratingCompany": 5.0
+    }
+  },
+  {
+    "id": 7,
+    "productName": "Snickers",
+    "weight": 50.0,
+    "price": 18.7,
+    "quantity": 3,
+    "category": {
+      "Id": 3,
+      "nameCategory": "confectionery",
+      "ratingCategory": 3.1
+    },
+    "company": {
+      "Id": 4,
+      "companyName": "USA",
+      "ratingCompany": 4.9
+    }
+  },
+  {
+    "id": 8,
+    "productName": "Mars",
+    "weight": 50.0,
+    "price": 18.6,
+    "quantity": 3,
+    "category": {
+      "Id": 3,
+      "nameCategory": "confectionery",
+      "ratingCategory": 3.1
+    },
+    "company": {
+      "Id": 4,
+      "companyName": "USA",
+      "ratingCompany": 4.9
+    }
+  },
+  {
+    "id": 9,
+    "productName": "Nuts",
+    "weight": 50.0,
+    "price": 19.7,
+    "quantity": 3,
+    "category": {
+      "Id": 3,
+      "nameCategory": "confectionery",
+      "ratingCategory": 3.1
+    },
+    "company": {
+      "Id": 5,
+      "companyName": "France",
+      "ratingCompany": 4.3
+    }
+  },
+  {
+    "id": 10,
+    "productName": "Bounty",
+    "weight": 50.0,
+    "price": 23.7,
+    "quantity": 3,
+    "category": {
+      "Id": 3,
+      "nameCategory": "confectionery",
+      "ratingCategory": 3.1
+    },
+    "company": {
+      "Id": 5,
+      "companyName": "France",
+      "ratingCompany": 4.3
+    }
+  }
+]
